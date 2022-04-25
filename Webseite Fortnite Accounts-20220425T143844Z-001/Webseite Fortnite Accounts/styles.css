@@ -1,0 +1,55 @@
+html, body {
+    height: 100%;
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+}
+
+nav {
+    background-color: black;
+}
+
+nav a {
+    right: 100%;
+    position: absolute;
+    left: 1550px;
+}
+
+nav b img {
+    width: 3%;
+    position: absolute;
+    margin-top: 32px;
+    right: 425px;
+}
+
+.shop {
+    font-size: 80px;
+    color: #4073ff;
+    padding: 20px;
+    text-shadow: 0px 0px 0px;
+}
+
+.card {
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin: 3%;
+    float: left;
+    width: 12%;
+    justify-content: center;
+    align-items: center;
+}
+
+.card button {
+    background-color: cyan;
+    float: center;
+}
+
+.card p {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
